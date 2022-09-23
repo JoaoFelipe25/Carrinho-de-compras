@@ -1,3 +1,3 @@
-# Projeto TransformaTec
+# e-commerce
 
-## Carrinho de Compras
+## carrinho de compras
